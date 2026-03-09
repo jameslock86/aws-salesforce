@@ -1,5 +1,3 @@
-https://chatgpt.com/c/69814f4d-0adc-8326-9f84-36cf1e33deef
-
 
 # API Gateway → Lambda → RDS (+ S3) with Terraform (AWS)
 
