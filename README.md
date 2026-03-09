@@ -1,3 +1,4 @@
+<img width="807" height="371" alt="Screenshot 2026-03-09 at 6 16 37 PM" src="https://github.com/user-attachments/assets/0fb5766e-c296-4f38-a821-d8d7540f176d" />
 
 # API Gateway → Lambda → RDS (+ S3) with Terraform (AWS)
 
@@ -81,6 +82,8 @@ At the end, Terraform prints outputs including the API URL.
 ---
 
 ## Step 5 — Test the API
+
+
 
 After `terraform apply`, copy `api_base_url` output and run:
 
